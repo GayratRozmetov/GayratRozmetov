@@ -159,7 +159,7 @@ I work closely with real-world wholesale and retail e-commerce operations. This 
 
 | Project | Description | Technologies | Status |
 |---|---|---|---|
-| Smart Focus Dashboard | Productivity dashboard with tasks, goals and focus tools | HTML, CSS, JavaScript | In Development |
+| [Smart Focus Dashboard](https://github.com/GayratRozmetov/smart-focus-dashboard) | Productivity dashboard with tasks, goals and focus sessions — [Live Demo](https://smart-focus-dashboard.cloudy-beech-0660.chatgpt.site) | Next.js, React, TypeScript | Live |
 | AI Content Assistant | AI-powered content creation and management application | Next.js, TypeScript, AI API | Planned |
 | E-Commerce Command Center | Product, inventory and order management dashboard | React, Node.js, PostgreSQL | Planned |
 | Wholesale Catalog System | Digital product catalog and customer presentation platform | Next.js, Database, Cloud | Planned |
