@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Gayrat Rozmetov — Full-Stack, AI and E-Commerce" width="100%">
+  <img src="./github-profile-banner.png" alt="Gayrat Rozmetov — Full-Stack, AI and E-Commerce" width="100%">
 </p>
 
 <p align="center">
