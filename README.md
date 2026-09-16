@@ -162,6 +162,7 @@ I work closely with real-world wholesale and retail e-commerce operations. This 
 | [Smart Focus Dashboard](https://github.com/GayratRozmetov/smart-focus-dashboard) | Productivity dashboard with tasks, goals and focus sessions — [Live Demo](https://smart-focus-dashboard.cloudy-beech-0660.chatgpt.site) | Next.js, React, TypeScript | Live |
 | [LocalMind AI Business Assistant](https://github.com/GayratRozmetov/localmind-ai-assistant) | Free, private browser-based AI assistant — [Live Demo](https://localmind-ai-assistant.cloudy-beech-0660.chatgpt.site) | Next.js, WebLLM, WebGPU | Live |
 | [E-Commerce Command Center](https://github.com/GayratRozmetov/ecommerce-command-center) | Interactive order, inventory and commerce analytics dashboard — [Live Demo](https://ecommerce-command-center.cloudy-beech-0660.chatgpt.site) | React, TypeScript, Vinext | Live |
+| [Commerce Analytics Studio](https://github.com/GayratRozmetov/commerce-analytics-studio) | Python-powered sales analytics for CSV and Excel data — [Live Demo](https://commerce-analytics-studio-bn2k6rmi3v6zpbv5mpt5sj.streamlit.app/) | Python, Streamlit, Pandas, Plotly | Live |
 | Wholesale Catalog System | Digital product catalog and customer presentation platform | Next.js, Database, Cloud | Planned |
 
 Completed projects will include source code, screenshots, documentation and live demo links.
