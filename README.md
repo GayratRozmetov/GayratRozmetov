@@ -163,6 +163,7 @@ I work closely with real-world wholesale and retail e-commerce operations. This 
 | [LocalMind AI Business Assistant](https://github.com/GayratRozmetov/localmind-ai-assistant) | Free, private browser-based AI assistant — [Live Demo](https://localmind-ai-assistant.cloudy-beech-0660.chatgpt.site) | Next.js, WebLLM, WebGPU | Live |
 | [E-Commerce Command Center](https://github.com/GayratRozmetov/ecommerce-command-center) | Interactive order, inventory and commerce analytics dashboard — [Live Demo](https://ecommerce-command-center.cloudy-beech-0660.chatgpt.site) | React, TypeScript, Vinext | Live |
 | [Commerce Analytics Studio](https://github.com/GayratRozmetov/commerce-analytics-studio) | Python-powered sales analytics for CSV and Excel data — [Live Demo](https://commerce-analytics-studio-bn2k6rmi3v6zpbv5mpt5sj.streamlit.app/) | Python, Streamlit, Pandas, Plotly | Live |
+| [Wholesale Catalog System](https://github.com/GayratRozmetov/wholesale-catalog-system) | Full-stack wholesale catalog and buyer selection platform — [Live Demo](https://wholesale-catalog-system.vercel.app/) | C#, ASP.NET Core, React, PostgreSQL | Live |
 
 Completed projects will include source code, screenshots, documentation and live demo links.
 
